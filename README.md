@@ -1,7 +1,7 @@
 # Olá! 👋 Sou o Luis Felipe
 
-<a href="www.linkedin.com/in/luis-felipe-costa-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:inlusive22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/luis-felipe-costa-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 ---
 
 🚀 Desenvolvedor de Software apaixonado por transformar ideias em realidade digital e extrair insights valiosos de dados.
@@ -70,7 +70,7 @@ Estou sempre em busca de novos conhecimentos e aprimoramento. No momento, meu fo
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! Adoraria conectar e discutir oportunidades, projetos ou simplesmente trocar ideias sobre tecnologia e dados.
 
 * 📧 **Email:** `inlusive22@gmail.com`
-* 🔗 **LinkedIn:** `www.linkedin.com/in/luis-felipe-costa-pedro`
+* 🔗 **LinkedIn:** [Luis Felipe Costa Pedro](https://www.linkedin.com/in/luis-felipe-costa-pedro)
 ---
 
 ✨ *Sempre codificando algo novo!* ✨
