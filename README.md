@@ -70,7 +70,7 @@ Estou sempre em busca de novos conhecimentos e aprimoramento. No momento, meu fo
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! Adoraria conectar e discutir oportunidades, projetos ou simplesmente trocar ideias sobre tecnologia e dados.
 
 * 📧 **Email:** `inlusive22@gmail.com`
-* 🔗 **LinkedIn:** `https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/luis-felipe-costa-pedro-09aa12277/)`
+* 🔗 **LinkedIn:** `www.linkedin.com/in/luis-felipe-costa-pedro`
 ---
 
 ✨ *Sempre codificando algo novo!* ✨
