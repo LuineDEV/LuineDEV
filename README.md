@@ -72,7 +72,7 @@ Atualmente, estou aprofundando meus conhecimentos no ecossistema **React** ⚛�
   - **Descrição:** Site institucional dinâmico com um sistema de autenticação de ponta a ponta.
   - **Funcionalidades:** Cadastro e login de usuários, área de cliente restrita, formulário de contato funcional, animações com JS, e design totalmente responsivo.
   - **Tecnologias:** PHP, MySQL, JavaScript, CSS3, HTML5.
-  - **[Ver Repositório]((https://github.com/LuineDEV/site-advocacia.php))**
+  - **[Ver Repositório]([https://github.com/LuineDEV/site-advocacia.php])**
 </details>
 
 ---
