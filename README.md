@@ -9,11 +9,62 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor de Software apaixonado por transformar ideias em realidade digital e extrair insights valiosos de dados.
+Desenvolvedor de Software Full-stack apaixonado por construir soluções robustas e escaláveis, desde a concepção da API até a criação de interfaces de usuário intuitivas.
 
-Minha jornada na programação começou com uma base sólida em **Java** e **Python**, e rapidamente evoluiu para o desenvolvimento web. Hoje, construo aplicações completas, cuidando tanto do **front-end**, com interfaces intuitivas e responsivas usando **HTML5, CSS3 e JavaScript**, quanto do **back-end**. Tenho experiência prática com **PHP** para criar lógicas de servidor e sistemas dinâmicos, e com **MySQL** 🐬 para projetar e gerenciar bancos de dados relacionais de forma eficaz.
+Com uma base sólida em **Python** e **Java**, minha expertise se concentra no desenvolvimento de back-ends eficientes com **FastAPI** e na orquestração de ambientes complexos com **Docker** e **Docker Compose**. Tenho habilidade em projetar e gerenciar bancos de dados **MySQL** e em construir lógicas de servidor dinâmicas, como demonstrado em projetos com **PHP**.
 
-Atualmente, estou aprofundando meus conhecimentos no ecossistema **React** ⚛️ para desenvolver SPAs (Single Page Applications) modernas, combinando minha paixão por dados com a criação de experiências de usuário ricas e interativas. Busco oportunidades desafiadoras para aplicar meu conhecimento técnico e meu desejo contínuo de aprendizado em projetos de alto impacto.
+No front-end, utilizo **React** para desenvolver SPAs (Single Page Applications) modernas e responsivas, conectando-as a APIs para criar experiências de usuário ricas e interativas. Estou sempre em busca de desafios que me permitam aplicar e expandir meu conhecimento em engenharia de software, com foco em código limpo, arquitetura desacoplada e práticas DevOps.
+
+---
+
+### 🌟 Projetos em Destaque
+
+<details open>
+  <summary><strong>Encurtador de URL Full-stack com Analytics (Python, FastAPI, React, Docker)</strong></summary>
+
+  - **Descrição:** Uma aplicação web completa e containerizada que permite encurtar URLs, definir apelidos customizados e rastrear a quantidade de cliques em cada link. O projeto foi construído com uma arquitetura de microsserviços, com comunicação desacoplada entre o frontend, backend e banco de dados.
+  - **Funcionalidades:** Geração de links curtos, apelidos personalizados, contagem de cliques, API RESTful completa com documentação Swagger.
+  - **Tecnologias:** Python, FastAPI, React, SQLAlchemy, MySQL, Docker, Docker Compose, Nginx.
+  - **[Ver Repositório](https://github.com/inlus/url-encurtador-fullstack)**
+
+</details>
+
+<details>
+  <summary><strong>Site de Advocacia - Aplicação Web Completa (PHP, MySQL)</strong></summary>
+
+  - **Descrição:** Site institucional dinâmico com um sistema de autenticação de ponta a ponta.
+  - **Funcionalidades:** Cadastro e login de usuários, área de cliente restrita, formulário de contato funcional, animações com JS, e design totalmente responsivo.
+  - **Tecnologias:** PHP, MySQL, JavaScript, CSS3, HTML5.
+  - **[Ver Repositório](https://github.com/LuineDEV/site-advocacia.php)**
+
+</details>
+
+---
+
+### 💻 Tecnologias & Ferramentas
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/></a>
+</p>
+
+---
+
+### 🌱 Meus Próximos Passos
+
+Atualmente, estou focado em aprofundar meus conhecimentos em práticas avançadas de engenharia de software para garantir a qualidade e a manutenibilidade de aplicações em larga escala.
+- **Testes Automatizados:** Implementando testes unitários e de integração com `pytest` para garantir a robustez das minhas APIs.
+- **CI/CD (Integração e Entrega Contínua):** Explorando ferramentas como GitHub Actions para automatizar os processos de build, teste e deploy.
+- **Cloud & Infraestrutura como Código:** Estudando plataformas de nuvem (AWS, GCP) e ferramentas como Terraform.
 
 ---
 
@@ -28,69 +79,13 @@ Atualmente, estou aprofundando meus conhecimentos no ecossistema **React** ⚛�
 
 ---
 
-### 💻 Tecnologias & Ferramentas
-
-<details>
-  <summary>Clique para expandir</summary>
-  
-  <p align="left">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
-    </a>
-  </p>
-</details>
-
----
-
-### 🌟 Projeto em Destaque
-
-<details>
-  <summary>Clique para expandir</summary>
-
-  #### ⚖️ Site de Advocacia - Aplicação Web Completa
-  - **Descrição:** Site institucional dinâmico com um sistema de autenticação de ponta a ponta.
-  - **Funcionalidades:** Cadastro e login de usuários, área de cliente restrita, formulário de contato funcional, animações com JS, e design totalmente responsivo.
-  - **Tecnologias:** PHP, MySQL, JavaScript, CSS3, HTML5.
-  - **[Ver Repositório](https://github.com/LuineDEV/site-advocacia.php)**
-</details>
-
----
-
-### 🌱 Aprendendo Atualmente
-
-* **React.js & Ecossistema:** Aprofundando em componentes, hooks, estado e bibliotecas complementares para criar interfaces ricas.
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-* **Boas Práticas de Engenharia de Software:** Clean Code, Design Patterns e Testes para criar software de alta qualidade e manutenibilidade.
-
----
-
 ### 📫 Entre em Contato
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! Adoraria conectar e discutir oportunidades, ou simplesmente trocar ideias sobre tecnologia.
 
-* 📧 **Email:** `inlusive22@gmail.com`
-* 🔗 **LinkedIn:** [Luis Felipe Costa Pedro](https://www.linkedin.com/in/luis-felipe-costa-pedro)
+-   📧 **Email:** `inlusive22@gmail.com`
+-   🔗 **LinkedIn:** [Luis Felipe Costa Pedro](https://www.linkedin.com/in/luis-felipe-costa-pedro)
+
 ---
 
 ✨ *Sempre construindo, sempre aprendendo.* ✨
