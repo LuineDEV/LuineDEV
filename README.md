@@ -25,7 +25,7 @@ No front-end, utilizo **React** para desenvolver SPAs (Single Page Applications)
   - **Descrição:** Uma aplicação web completa e containerizada que permite encurtar URLs, definir apelidos customizados e rastrear a quantidade de cliques em cada link. O projeto foi construído com uma arquitetura de microsserviços, com comunicação desacoplada entre o frontend, backend e banco de dados.
   - **Funcionalidades:** Geração de links curtos, apelidos personalizados, contagem de cliques, API RESTful completa com documentação Swagger.
   - **Tecnologias:** Python, FastAPI, React, SQLAlchemy, MySQL, Docker, Docker Compose, Nginx.
-  - **[Ver Repositório](https://github.com/inlus/url-encurtador-fullstack)**
+  - **[Ver Repositório](https://github.com/LuineDEV/url-encurtador-fullstack)**
 
 </details>
 
@@ -72,8 +72,8 @@ Atualmente, estou focado em aprofundar meus conhecimentos em práticas avançada
 
 <p align="center">
   <a href="https://github.com/LuineDEV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
   </a>
 </p>
 
