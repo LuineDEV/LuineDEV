@@ -11,15 +11,25 @@
 
 Desenvolvedor de Software Full-stack apaixonado por construir soluções robustas e escaláveis, desde a concepção da API até a criação de interfaces de usuário intuitivas.
 
-Com uma base sólida em **Python** e **Java**, minha expertise se concentra no desenvolvimento de back-ends eficientes com **FastAPI** e na orquestração de ambientes complexos com **Docker** e **Docker Compose**. Tenho habilidade em projetar e gerenciar bancos de dados **MySQL** e em construir lógicas de servidor dinâmicas, como demonstrado em projetos com **PHP**.
+Com uma base sólida em **Python** e **Java**, minha expertise se concentra no desenvolvimento de back-ends eficientes com **FastAPI** e na orquestração de ambientes complexos com **Docker**. Minha versatilidade se estende ao desenvolvimento de aplicações desktop com Python, utilizando frameworks como **Eel** para criar experiências ricas e integradas. Tenho habilidade em projetar e gerenciar bancos de dados **MySQL** e em construir lógicas de servidor dinâmicas com **PHP**.
 
-No front-end, utilizo **React** para desenvolver SPAs (Single Page Applications) modernas e responsivas, conectando-as a APIs para criar experiências de usuário ricas e interativas. Estou sempre em busca de desafios que me permitam aplicar e expandir meu conhecimento em engenharia de software, com foco em código limpo, arquitetura desacoplada e práticas DevOps.
+No front-end, utilizo **React** para desenvolver SPAs (Single Page Applications) modernas e responsivas, conectando-as a APIs para criar experiências de usuário interativas. Estou sempre em busca de desafios que me permitam aplicar e expandir meu conhecimento em engenharia de software, com foco em código limpo, arquitetura desacoplada e práticas DevOps.
 
 ---
 
 ### 🌟 Projetos em Destaque
 
 <details open>
+  <summary><strong>Central Gamer - Hub Desktop para Gamers (Python, Eel, MySQL)</strong></summary>
+  
+  - **Descrição:** Uma aplicação desktop multiplataforma, desenvolvida para ser um hub completo para gamers. O projeto demonstra a criação de aplicações nativas com tecnologias web (HTML, JS, CSS) através do Python, utilizando a biblioteca Eel para a comunicação entre o front-end e o back-end.
+  - **Funcionalidades:** Autenticação de usuários, personalização de temas, rastreamento de streamers da Twitch em tempo real, biblioteca de jogos pessoal com CRUD completo, e um bloco de notas integrado.
+  - **Tecnologias:** Python, Eel, HTML5, CSS3, JavaScript, MySQL, PyInstaller.
+  - **[Ver Repositório](https://github.com/LuineDEV/central-gamer-desktop)**
+
+</details>
+
+<details>
   <summary><strong>Encurtador de URL Full-stack com Analytics (Python, FastAPI, React, Docker)</strong></summary>
 
   - **Descrição:** Uma aplicação web completa e containerizada que permite encurtar URLs, definir apelidos customizados e rastrear a quantidade de cliques em cada link. O projeto foi construído com uma arquitetura de microsserviços, com comunicação desacoplada entre o frontend, backend e banco de dados.
