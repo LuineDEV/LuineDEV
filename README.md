@@ -82,8 +82,11 @@ Estou sempre me desafiando com novas tecnologias. Meus focos de estudo atuais s�
 - **DevOps & Cloud:** Melhorando pipelines de CI/CD e estudando infraestrutura.
 
 ---
+### 🐍 Minha Contribuição
 
-### 📊 Minhas Estatísticas
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuineDEV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 📊 Minhas Estatísticas
 
