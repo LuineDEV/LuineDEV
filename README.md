@@ -87,8 +87,8 @@ Estou sempre me desafiando com novas tecnologias. Meus focos de estudo atuais s√
 
 <p align="center">
   <a href="https://github.com/LuineDEV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
