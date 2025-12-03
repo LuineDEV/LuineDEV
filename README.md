@@ -85,6 +85,8 @@ Estou sempre me desafiando com novas tecnologias. Meus focos de estudo atuais s�
 
 ### 📊 Minhas Estatísticas
 
+### 📊 Minhas Estatísticas
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=LuineDEV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="LuineDEV Trophies" />
@@ -92,15 +94,9 @@ Estou sempre me desafiando com novas tecnologias. Meus focos de estudo atuais s�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&v=10" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800&v=10" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuineDEV&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📫 Entre em Contato
