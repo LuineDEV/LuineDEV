@@ -85,18 +85,12 @@ Estou sempre me desafiando com novas tecnologias. Meus focos de estudo atuais s�
 
 ### 📊 Minhas Estatísticas
 
-### 📊 Minhas Estatísticas
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LuineDEV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="LuineDEV Trophies" />
-  </a>
+  <img src="https://github.com/LuineDEV/LuineDEV/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github.com/LuineDEV/LuineDEV/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Langs" />
+  <img src="https://github.com/LuineDEV/LuineDEV/blob/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuineDEV&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuineDEV&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
-</p>
 ---
 
 ### 📫 Entre em Contato
