@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante do **6º período de Ciência da Computação** e Desenvolvedor de Software apaixonado por resolver problemas reais. Meu foco atual é construir soluções robustas e escaláveis, unindo o poder do **Python** com tecnologias web modernas.
+Sou estudante do **7º período de Ciência da Computação** e Desenvolvedor de Software apaixonado por resolver problemas reais. Meu foco atual é construir soluções robustas e escaláveis, unindo o poder do **Python** com tecnologias web modernas.
 
 Tenho uma base sólida no desenvolvimento de back-ends com **FastAPI** e na orquestração de ambientes com **Docker**. Minha versatilidade me permite transitar entre o desenvolvimento de aplicações Desktop (com **Eel**), interfaces web responsivas com **React** e lógica de servidor dinâmica.
 
@@ -20,7 +20,7 @@ Atualmente, estou expandindo meus horizontes explorando a integração de **Inte
 ### 🌟 Projetos em Destaque
 
 <details open>
-  <summary><strong>🧠 Classificador de Emails Inteligente - Desafio AutoU (Python, AI)</strong></summary>
+  <summary><strong>🧠 Classificador de Emails Inteligente - (Python, AI)</strong></summary>
   
   - **Descrição:** Solução desenvolvida para um desafio técnico de estágio. Trata-se de uma aplicação que utiliza Inteligência Artificial para analisar o conteúdo de e-mails e classificá-los automaticamente como "Produtivo" ou "Improdutivo", além de sugerir ações baseadas no contexto.
   - **Destaque:** Uso de IA para processamento de linguagem natural e automação de triagem.
